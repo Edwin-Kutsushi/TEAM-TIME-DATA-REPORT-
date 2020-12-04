@@ -1,8 +1,8 @@
 # TEAM-TIME-DATA-REPORT-
-###Persons living with disabilities are spread out across the 47 counties in Kenya. They often need devices to perform a number of activities in their day-to-day lives. 
-###Currently, the government has put measures in place through the National Council For Persons With Disabilities (NCPWD); to ensure that people living with various disabilities have access to devices that will act as enablers in them achieving tasks.
-###The NCPWD seeks to maximize distribution of disability devices across the 47 counties to ensure that every person living with a disability receives the necessary device, this is in line with one of their core functions which is; formulating and developing measures and policies designed to achieve equal opportunities for persons with disabilities. 
-###To achieve this, they have requested for the services of our Data Science team to conduct research and provide recommendations on the strategy to distribute disability devices. 
+Persons living with disabilities are spread out across the 47 counties in Kenya. They often need devices to perform a number of activities in their day-to-day lives. 
+Currently, the government has put measures in place through the National Council For Persons With Disabilities (NCPWD); to ensure that people living with various disabilities have access to devices that will act as enablers in them achieving tasks.
+The NCPWD seeks to maximize distribution of disability devices across the 47 counties to ensure that every person living with a disability receives the necessary device, this is in line with one of their core functions which is; formulating and developing measures and policies designed to achieve equal opportunities for persons with disabilities. 
+To achieve this, they have requested for the services of our Data Science team to conduct research and provide recommendations on the strategy to distribute disability devices. 
 
 ##  UNBIASED DISTRIBUTION OF DISABILITY DIVICES
 #### This project is an analysis aimed at providing insights into identifying the most convinient method for Formulating and developing measures and policies designed to achieve equal opportunities for persons with disabilities;
