@@ -20,10 +20,10 @@
 ##  Meta
 #### Team Time Data Report
 #### Distributed under the GNU General Public License v3.0. See LICENSE for more information.
-#### https://github.com/sheilanasimiyu/Week-4-independent-project.git
+#### https://github.com/Edwin-Kutsushi/TEAM-TIME-DATA-REPORT
 
 ##  Contributing
-#### 1. Fork it 
+#### 1. Fork it https://github.com/Edwin-Kutsushi/TEAM-TIME-DATA-REPORT
 #### 2. Create your feature branch (git checkout -b feature/fooBar)
 #### 3. Commit your changes (git commit -am 'Add some fooBar')
 #### 4. Push to the branch (git push origin feature/fooBar)
