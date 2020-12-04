@@ -1,8 +1,8 @@
 # TEAM-TIME-DATA-REPORT-
-Persons living with disabilities are spread out across the 47 counties in Kenya. They often need devices to perform a number of activities in their day-to-day lives. 
-Currently, the government has put measures in place through the National Council For Persons With Disabilities (NCPWD); to ensure that people living with various disabilities have access to devices that will act as enablers in them achieving tasks.
-The NCPWD seeks to maximize distribution of disability devices across the 47 counties to ensure that every person living with a disability receives the necessary device, this is in line with one of their core functions which is; formulating and developing measures and policies designed to achieve equal opportunities for persons with disabilities. 
-To achieve this, they have requested for the services of our Data Science team to conduct research and provide recommendations on the strategy to distribute disability devices. 
+### Persons living with disabilities are spread out across the 47 counties in Kenya. They often need devices to perform a number of activities in their day-to-day lives. 
+### Currently, the government has put measures in place through the National Council For Persons With Disabilities (NCPWD); to ensure that people living with various disabilities have access to devices that will act as enablers in them achieving tasks.
+### The NCPWD seeks to maximize distribution of disability devices across the 47 counties to ensure that every person living with a disability receives the necessary device, this is in line with one of their core functions which is; formulating and developing measures and policies designed to achieve equal opportunities for persons with disabilities. 
+### To achieve this, they have requested for the services of our Data Science team to conduct research and provide recommendations on the strategy to distribute disability devices. 
 
 ##  UNBIASED DISTRIBUTION OF DISABILITY DIVICES
 #### This project is an analysis aimed at providing insights into identifying the most convinient method for Formulating and developing measures and policies designed to achieve equal opportunities for persons with disabilities;
@@ -13,6 +13,15 @@ To achieve this, they have requested for the services of our Data Science team t
 #### 2. What counties receive less or no disability devices for the various disabilities that have been registered by the NCPWD?
 #### 3. How can the cost of highly priced devices be managed to acquire more affordable devices?
 #### 4. Which service providers have more impact in distribution of disability devices?
+
+## Business Objective
+### Detailed discussions were held with the NCPWD business teams and it was agreed that the major objective of the project was to conduct research and develop a strategy that can be used for effective distribution of disability devices across the 47 counties.
+### The objectives have further been broken down into the following:
+### 1. To identify the number of persons living with the different types of disabilities in the 47 counties.
+### 2. To highlight the counties that have received less or no disability devices for the various disabilities that have been registered by the NCPWD.
+### 3. To assess the distribution of cost-effective devices across the 47 counties.
+### 4. To outline the service providers that have more impact in distribution of disability devices.
+
 
 ##  Analysis environment
 #### Python was used for the analysis, particularly, the use Pandas and Numpy libraries. GitHub was used to create a repository. JIRA was used to manage the project and follow up on the progress of the project, on duties assigned to the members of the group
