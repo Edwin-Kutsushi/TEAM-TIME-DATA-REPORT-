@@ -20,10 +20,10 @@
 ##  Meta
 #### Team Time Data Report
 #### Distributed under the GNU General Public License v3.0. See LICENSE for more information.
-#### https://github.com/Edwin-Kutsushi/TEAM-TIME-DATA-REPORT
+#### https://github.com/Edwin-Kutsushi/TEAM-TIME-DATA-REPORT-.git
 
 ##  Contributing
-#### 1. Fork it https://github.com/Edwin-Kutsushi/TEAM-TIME-DATA-REPORT
+#### 1. Fork it https://github.com/Edwin-Kutsushi/TEAM-TIME-DATA-REPORT-.git
 #### 2. Create your feature branch (git checkout -b feature/fooBar)
 #### 3. Commit your changes (git commit -am 'Add some fooBar')
 #### 4. Push to the branch (git push origin feature/fooBar)
